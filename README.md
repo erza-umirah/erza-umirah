@@ -1,4 +1,16 @@
-Hi there, I'm Erza Nor Umirah 👋  
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+
+⭐️ Congratulations erza-umirah! ⭐️
+
+You completed this exercise! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ Hi there, I'm Erza Nor Umirah 👋  
 Software Engineering Graduate | Former IT Business Analyst Intern at Hilti Asia IT Services(HAITS).
 
 🌱 I'm currently exploring GitHub to showcase my journey in tech and software development.  
